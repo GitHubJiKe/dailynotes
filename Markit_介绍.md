@@ -11,6 +11,8 @@
 -   `Cmd/Ctrl + S` - 保存导出文档到本地
 -   `Cmd/Ctrl + Shift + D` - 快速切换明暗主题
 -   `Cmd/Ctrl + Shift + C` - 打开&关闭配置弹框
+-   `Cmd + Ctrl + Option/Alt + P` - 推送到Github
+-   `Cmd + Ctrl + Option/Alt + O` - 从Github拉取
 -   `ESC` - 关闭设置弹窗
 -   **导出图片** - 仅在预览模式下通过按钮操作
 
